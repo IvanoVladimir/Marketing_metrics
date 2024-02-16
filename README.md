@@ -54,14 +54,14 @@
 
 ---
 
-## [***К проекту***](https://github.com/IvanoVladimir/MobileApp/blob/main/Mobile_games.ipynb 'Ссылка на проект') 
+## [***К проекту***](https://github.com/IvanoVladimir/Marketing_metrics/blob/main/Marketing%20metrics.ipynb 'Ссылка на проект') 
 <!--## [***К содержанию ->***](#-)-->
 <div id="badges" align="center">
 
 <!-- [![GitHub last commit](https://img.shields.io/github/last-commit/IvanoVladimir/E-commerce.svg)](https://github.com/IvanoVladimir/E-commerce) 
 [![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/IvanoVladimir/E-commerce.svg)](https://github.com/IvanoVladimir/E-commerce)--> 
-[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/IvanoVladimir/E-commerce.svg)](https://github.com/IvanoVladimir/E-commerce)
-![ViewCount](https://views.whatilearened.today/views/github/IvanoVladimir/E-commerce.svg?cache=remove)
-![GitHub top language](https://img.shields.io/github/languages/top/IvanoVladimir/E-commerce.svg?style=flat)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/IvanoVladimir/Marketing_metrics.svg)](https://github.com/IvanoVladimir/E-commerce)
+![ViewCount](https://views.whatilearened.today/views/github/IvanoVladimir/Marketing_metrics.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/IvanoVladimir/Marketing_metrics.svg?style=flat)
 
 </div>
